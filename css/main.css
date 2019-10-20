@@ -1,6 +1,13 @@
-body {
-  background-color:#C0C0C0;
-  color#AAAAAA;
-  }
-  
-  
+.title {
+  Color:white;
+}
+
+#body {
+  background-color:#30302f;
+  text-align:center;
+  font-family:courier new;
+}
+p:hover {
+  background-color:black;
+  font-size:18px;
+}  
