@@ -1,4 +1,9 @@
-for ( i = 0; i < x;){
-  var ans=math.pow(2,x)
-  document.write(ans);
-}
+1
+2
+4
+8
+16
+32
+64
+128
+256
