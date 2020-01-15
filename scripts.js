@@ -1,9 +1,9 @@
-The number is:1
-The number is:2
-The number is:4
-The number is:8
-The number is:16
-The number is:32
-The number is:64
-The number is:128
-The number is:256
+The number is 1
+The number is 2
+The number is 4
+The number is 8
+The number is 16
+The number is 32
+The number is 64
+The number is 128
+The number is 256
